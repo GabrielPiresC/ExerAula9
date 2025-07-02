@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ContaTest
+comment0.text=\r\n\ A\ classe\ de\ teste\ ContaTest.\r\n\r\n\ @author\ \ (seu\ nome)\r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=ContaTest()
+comment1.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ ContaTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Define\ a\ 'fixture'\ do\ teste.\r\n\r\n\ Chamado\ antes\ de\ cada\ m\u00E9todo\ de\ caso\ de\ teste.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Desfaz\ a\ 'fixture'\ do\ teste.\r\n\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment4.params=
+comment4.target=void\ testaDepositoConta()
+comment5.params=
+comment5.target=void\ testaSaque()
+comment6.params=
+comment6.target=void\ testaTransferencia()
+numComments=7
